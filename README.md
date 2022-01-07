@@ -1,6 +1,7 @@
 # L-Game-
 
 ‘L-Game’, es un juego de estrategia, el cual requiere de dos jugadores. La dinámica del juego es muy sencilla: cada jugador mueve su pieza en su correspondiente turno, y opcionalmente una de las dos piezas neutras a cualquier casilla vacía; el objetivo del mismo es dejar inmóvil al oponente. Una vez logrado el objetivo, dicho jugador es el ganador.
+El presente juego está hecho en SmallTalk.
 
 CONSIDERACIONES PARA EJECUTAR EL JUEGO:
 
